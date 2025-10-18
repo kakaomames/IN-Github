@@ -103,6 +103,7 @@ const routes = [
   { path: "/play.html", file: "games.html" },
   { path: "/c", file: "settings.html" },
   { path: "/d", file: "tabs.html" },
+  { path: "/s", file: "index.htmls" },
   { path: "/", file: "index.html" },
 ];
 
